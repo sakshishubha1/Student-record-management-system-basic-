@@ -78,5 +78,4 @@ printf("ERROR");
 break;
  }
 }
-return 0;
 }
